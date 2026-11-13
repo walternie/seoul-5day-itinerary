@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="首尔五日旅行路书：2027年1月1日至1月5日，含逐日行程、已预约事项、待办与应急预案。"
+    />
+    <meta name="theme-color" content="#1f3a2e" />
+    <title>首尔五日路书 · SEL2701</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">跳到主要内容</a>
+
+    <header class="site-header">
+      <div class="site-brand">
+        <p class="eyebrow">SEL2701</p>
+        <h1>首尔五日路书</h1>
+        <p class="lede">
+          旅行日期：<time datetime="2027-01-01">2027-01-01</time>
+          –
+          <time datetime="2027-01-05">2027-01-05</time>
+          。Hotel Kukdo 四晚 · OZ336／OZ335 · Climate Card + T-money。手机优先的静态行程页。
+        </p>
+      </div>
+      <div class="header-actions">
+        <button type="button" id="share-button" class="button">分享</button>
+        <p id="share-status" class="share-status" role="status" aria-live="polite"></p>
+      </div>
+    </header>
+
+    <nav class="site-nav" aria-label="页面分区">
+      <a href="#itinerary">逐日行程</a>
+      <a href="#bookings">已预约</a>
+      <a href="#pending">待办理</a>
+      <a href="#fallbacks">应急预案</a>
+      <a href="credits.html">图片署名</a>
+    </nav>
+
+    <main id="main">
+      <section id="itinerary" class="panel" aria-labelledby="itinerary-title">
+        <header class="panel-header">
+          <h2 id="itinerary-title">逐日行程</h2>
+          <p>按 D1–D5 切换查看当日摘要、编号路书与完整步骤。</p>
+        </header>
+
+        <div
+          id="day-tabs"
+          class="day-tabs"
+          role="group"
+          aria-label="选择旅行日"
+        ></div>
+        <div id="day-panels" class="day-panels"></div>
+
+        <noscript>
+          <div class="noscript-days">
+            <p>
+              当前浏览器未启用 JavaScript。以下仍可查看旅行日期与每日标题摘要；完整步骤、地图入口与交互切换需要启用脚本。
+            </p>
+            <article>
+              <h3>D1 · 1月1日 周五 · 北京 → 仁川 → Hotel Kukdo</h3>
+              <p>OZ336 晚到，AREX 经弘大换乘入住乙支路；只完成入境与补给。</p>
+            </article>
+            <article>
+              <h3>D2 · 1月2日 周六 · 国立中央博物馆 → 用山 → BHC</h3>
+              <p>博物馆精华 + I'Park 任天堂／宝可梦 + 忠武路 BHC；充气候卡 3 日。</p>
+            </article>
+            <article>
+              <h3>D3 · 1月3日 周日 · 圣水 + 南山首尔塔</h3>
+              <p>白天圣水，晚间南山室内展望台；弘大不当主日。</p>
+            </article>
+            <article>
+              <h3>D4 · 1月4日 周一 · 景福宫 → 乐天／新世界</h3>
+              <p>景福宫主线后百货买 Arc'teryx／Patagonia 冲金卡；可选再吃 BHC。</p>
+            </article>
+            <article>
+              <h3>D5 · 1月5日 周二 · 退房 → AREX → OZ335 回京</h3>
+              <p>乙支路刷 T-money，弘大转 AREX 普通，OZ335 回北京首都。</p>
+            </article>
+          </div>
+        </noscript>
+      </section>
+
+      <section id="bookings" class="panel" aria-labelledby="bookings-title">
+        <header class="panel-header">
+          <h2 id="bookings-title">已预约</h2>
+          <p>已购票、已购买与已预约事项独立列出，便于出发前核对。</p>
+        </header>
+        <div id="confirmed-list" class="booking-list"></div>
+      </section>
+
+      <section id="pending" class="panel" aria-labelledby="pending-title">
+        <header class="panel-header">
+          <h2 id="pending-title">待办理</h2>
+          <p>已过滤已取消、已锁定与已完成项；已购买项目不再提醒。</p>
+        </header>
+        <ul id="pending-list" class="task-list"></ul>
+      </section>
+
+      <section id="fallbacks" class="panel" aria-labelledby="fallbacks-title">
+        <header class="panel-header">
+          <h2 id="fallbacks-title">应急预案</h2>
+          <p>天气、换乘延误或线路风险时的边界与替代动作。</p>
+        </header>
+        <div id="fallback-list" class="fallback-list"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>
+        静态 ES module 站点 · 相对路径，可部署到 GitHub Pages 项目子路径 ·
+        <a href="credits.html">图片署名与来源</a>
+        · 明细见 <a href="行程.md">行程.md</a>
+      </p>
+    </footer>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>

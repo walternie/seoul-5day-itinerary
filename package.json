@@ -1,0 +1,9 @@
+{
+  "name": "sel2701-itinerary-data",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch-images": "node scripts/fetch-step-images.mjs",
+    "apply-images": "node scripts/apply-step-images.mjs"
+  }
+}
