@@ -81,9 +81,9 @@ export const imageCredits = [
     "retrievedAt": "2026-11-23"
   },
   {
-    "stepId": "d2-d75207e2",
-    "localFile": "assets/images/D2-10-00–13-30-COLORIZE 色彩与化妆.jpg",
-    "title": "明洞个人色彩工作室 — COLORIZE 色彩与化妆",
+    "stepId": "d2-7158e9de",
+    "localFile": "assets/images/D2-10-00–13-30-明洞附近做色彩测试.jpg",
+    "title": "明洞个人色彩工作室 — 明洞附近做色彩测试",
     "creator": "generated place visual",
     "license": "personal itinerary use",
     "licenseUrl": "",

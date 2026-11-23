@@ -23,7 +23,7 @@ const TITLE_TO_VISUAL = {
   "酒店周边便利店": "korea-cu.jpg",
   "酒店热餐与充气候卡": "tmoney-card.jpg",
   "素颜步行到色彩店": "myeongdong-street.jpg",
-  "COLORIZE 色彩与化妆": "color-studio.jpg",
+  "明洞附近做色彩测试": "color-studio.jpg",
   "明洞熟食午餐": "korean-jjigae.jpg",
   "地铁前往景福宫": "seoul-metro.jpg",
   "景福宫": "gyeongbokgung.jpg",
