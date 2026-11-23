@@ -140,7 +140,7 @@ const rawDays = [
   {
     id: "D3",
     date: "1月3日 周日",
-    title: "圣水 → 首尔林 → 户外背包 → 清溪川",
+    title: "圣水逛街 → 首尔林 → 清溪川",
     hotel: "Hotel Kukdo",
     pace: "东线选品＋溪边散步",
     summary: "上午圣水延武装路，接着首尔林 SM 地下店，再到纛岛买户外背包。晚上清溪川，不爬南山。",
