@@ -33,10 +33,10 @@ const TITLE_TO_VISUAL = {
   "圣水洞咖啡与选品": "seongsu-cafe.jpg",
   "圣水熟食午餐": "korean-jjigae.jpg",
   "圣水到纛岛站": "seoul-metro.jpg",
-  "小鹰圣水直营店": "backpack-shop.jpg",
+  "圣水买户外背包": "backpack-shop.jpg",
   "回酒店放下背包": "hotel-kukdo.jpg",
-  "乐天本店始祖鸟": "lotte-myeongdong.jpg",
-  "新世界本店始祖鸟": "shinsegae-main.jpg",
+  "乐天本店买户外服饰": "lotte-myeongdong.jpg",
+  "新世界本店买户外服饰": "shinsegae-main.jpg",
   "回酒店放衣服": "packing-suitcase.jpg",
   "清溪川散步": "cheonggyecheon-winter.jpg",
   "周一热餐出发": "korean-hot-meal.jpg",
@@ -85,7 +85,7 @@ const VISUAL_NOTE = {
   "icn-departure.jpg": "仁川出发大厅",
   "shinsegae-main.jpg": "新世界本店",
   "color-studio.jpg": "明洞个人色彩工作室",
-  "backpack-shop.jpg": "小鹰背包直营店",
+  "backpack-shop.jpg": "户外背包店",
   "cheonggyecheon-winter.jpg": "清溪川冬夜",
 };
 

@@ -8,7 +8,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "pek-t3.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d1-f02a4385",
@@ -18,7 +18,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "asiana-oz.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d1-880e9145",
@@ -28,7 +28,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "icn-t2-arrival.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d1-2755257c",
@@ -38,7 +38,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "arex-train.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d1-ae808ed9",
@@ -48,7 +48,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "hotel-kukdo.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d1-6d143acd",
@@ -58,7 +58,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "korea-cu.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d2-46705fa3",
@@ -68,7 +68,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "tmoney-card.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d2-baaaf6ee",
@@ -78,7 +78,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "myeongdong-street.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d2-d75207e2",
@@ -88,7 +88,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "color-studio.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d2-fe1b4c35",
@@ -98,7 +98,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "korean-jjigae.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d2-de720815",
@@ -108,7 +108,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "seoul-metro.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d2-d0057820",
@@ -118,7 +118,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "gyeongbokgung.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d2-745bdbc1",
@@ -128,7 +128,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "korean-fried-chicken.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d3-c0083cfb",
@@ -138,7 +138,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "korean-hot-meal.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d3-c4b3c3a1",
@@ -148,7 +148,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "seoul-metro.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d3-06d2acc2",
@@ -158,7 +158,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "seongsu-cafe.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d3-cdb35600",
@@ -168,7 +168,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "korean-jjigae.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d3-8dac9a18",
@@ -178,17 +178,17 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "seoul-metro.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
-    "stepId": "d3-1d8a2b9d",
-    "localFile": "assets/images/D3-13-10–14-00-小鹰圣水直营店.jpg",
-    "title": "小鹰背包直营店 — 小鹰圣水直营店",
+    "stepId": "d3-398ca1b2",
+    "localFile": "assets/images/D3-13-10–14-00-圣水买户外背包.jpg",
+    "title": "户外背包店 — 圣水买户外背包",
     "creator": "generated place visual",
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "backpack-shop.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d3-1e52dabe",
@@ -198,27 +198,27 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "hotel-kukdo.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
-    "stepId": "d3-243109bd",
-    "localFile": "assets/images/D3-14-50–16-10-乐天本店始祖鸟.jpg",
-    "title": "明洞乐天百货 — 乐天本店始祖鸟",
+    "stepId": "d3-416a6ea3",
+    "localFile": "assets/images/D3-14-50–16-10-乐天本店买户外服饰.jpg",
+    "title": "明洞乐天百货 — 乐天本店买户外服饰",
     "creator": "generated place visual",
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "lotte-myeongdong.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
-    "stepId": "d3-117c1027",
-    "localFile": "assets/images/D3-16-10–17-30-新世界本店始祖鸟.jpg",
-    "title": "新世界本店 — 新世界本店始祖鸟",
+    "stepId": "d3-3c5e51e9",
+    "localFile": "assets/images/D3-16-10–17-30-新世界本店买户外服饰.jpg",
+    "title": "新世界本店 — 新世界本店买户外服饰",
     "creator": "generated place visual",
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "shinsegae-main.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d3-e8b52eef",
@@ -228,7 +228,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "packing-suitcase.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d3-d9f2bc0c",
@@ -238,7 +238,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "cheonggyecheon-winter.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d4-8bf9694e",
@@ -248,7 +248,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "korean-hot-meal.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d4-321c15a9",
@@ -258,7 +258,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "seoul-metro.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d4-12e36b9c",
@@ -268,7 +268,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "national-museum-korea.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d4-0d71021f",
@@ -278,7 +278,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "museum-interior.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d4-0772080b",
@@ -288,7 +288,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "ipark-mall.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d4-dc57a386",
@@ -298,7 +298,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "game-store-mall.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d4-7bb868f1",
@@ -308,7 +308,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "n-seoul-tower-night.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d4-ff105c57",
@@ -318,7 +318,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "hotel-kukdo.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d4-262ee4f0",
@@ -328,7 +328,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "korean-fried-chicken.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d5-da61b044",
@@ -338,7 +338,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "hotel-checkout.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d5-2d86f11e",
@@ -348,7 +348,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "euljiro-station.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d5-da870aec",
@@ -358,7 +358,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "arex-train.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d5-b354ca57",
@@ -368,7 +368,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "icn-departure.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   },
   {
     "stepId": "d5-9db9056e",
@@ -378,6 +378,6 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "asiana-oz.jpg",
-    "retrievedAt": "2026-11-18"
+    "retrievedAt": "2026-11-23"
   }
 ];
