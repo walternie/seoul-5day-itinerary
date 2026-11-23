@@ -121,9 +121,9 @@ export const imageCredits = [
     "retrievedAt": "2026-11-23"
   },
   {
-    "stepId": "d2-45d45abe",
-    "localFile": "assets/images/D2-17-10–18-20-乐天本店买户外服饰.jpg",
-    "title": "明洞乐天百货 — 乐天本店买户外服饰",
+    "stepId": "d2-ba2dd95e",
+    "localFile": "assets/images/D2-17-10–18-20-逛乐天免税店.jpg",
+    "title": "明洞乐天百货 — 逛乐天免税店",
     "creator": "generated place visual",
     "license": "personal itinerary use",
     "licenseUrl": "",
@@ -131,9 +131,9 @@ export const imageCredits = [
     "retrievedAt": "2026-11-23"
   },
   {
-    "stepId": "d2-3b2c11a3",
-    "localFile": "assets/images/D2-18-20–19-50-新世界本店买户外服饰.jpg",
-    "title": "新世界本店 — 新世界本店买户外服饰",
+    "stepId": "d2-41bae32d",
+    "localFile": "assets/images/D2-18-20–19-50-逛新世界免税店.jpg",
+    "title": "新世界本店 — 逛新世界免税店",
     "creator": "generated place visual",
     "license": "personal itinerary use",
     "licenseUrl": "",
