@@ -8,7 +8,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "pek-t3.jpg",
-    "retrievedAt": "2026-11-13"
+    "retrievedAt": "2026-11-18"
   },
   {
     "stepId": "d1-f02a4385",
@@ -18,7 +18,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "asiana-oz.jpg",
-    "retrievedAt": "2026-11-13"
+    "retrievedAt": "2026-11-18"
   },
   {
     "stepId": "d1-880e9145",
@@ -28,7 +28,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "icn-t2-arrival.jpg",
-    "retrievedAt": "2026-11-13"
+    "retrievedAt": "2026-11-18"
   },
   {
     "stepId": "d1-2755257c",
@@ -38,7 +38,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "arex-train.jpg",
-    "retrievedAt": "2026-11-13"
+    "retrievedAt": "2026-11-18"
   },
   {
     "stepId": "d1-ae808ed9",
@@ -48,7 +48,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "hotel-kukdo.jpg",
-    "retrievedAt": "2026-11-13"
+    "retrievedAt": "2026-11-18"
   },
   {
     "stepId": "d1-6d143acd",
@@ -58,87 +58,77 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "korea-cu.jpg",
-    "retrievedAt": "2026-11-13"
+    "retrievedAt": "2026-11-18"
   },
   {
-    "stepId": "d2-faf8d266",
-    "localFile": "assets/images/D2-08-30–09-30-酒店热餐与充气候卡.jpg",
+    "stepId": "d2-46705fa3",
+    "localFile": "assets/images/D2-08-30–09-15-酒店热餐与充气候卡.jpg",
     "title": "T-money / 交通卡 — 酒店热餐与充气候卡",
     "creator": "generated place visual",
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "tmoney-card.jpg",
-    "retrievedAt": "2026-11-13"
+    "retrievedAt": "2026-11-18"
   },
   {
-    "stepId": "d2-45006535",
-    "localFile": "assets/images/D2-09-30–10-15-地铁前往国立中央博物馆.jpg",
-    "title": "首尔地铁 — 地铁前往国立中央博物馆",
+    "stepId": "d2-baaaf6ee",
+    "localFile": "assets/images/D2-09-20–09-50-素颜步行到色彩店.jpg",
+    "title": "明洞步行街 — 素颜步行到色彩店",
+    "creator": "generated place visual",
+    "license": "personal itinerary use",
+    "licenseUrl": "",
+    "sourceUrl": "myeongdong-street.jpg",
+    "retrievedAt": "2026-11-18"
+  },
+  {
+    "stepId": "d2-d75207e2",
+    "localFile": "assets/images/D2-10-00–13-30-COLORIZE 色彩与化妆.jpg",
+    "title": "明洞个人色彩工作室 — COLORIZE 色彩与化妆",
+    "creator": "generated place visual",
+    "license": "personal itinerary use",
+    "licenseUrl": "",
+    "sourceUrl": "color-studio.jpg",
+    "retrievedAt": "2026-11-18"
+  },
+  {
+    "stepId": "d2-fe1b4c35",
+    "localFile": "assets/images/D2-13-30–14-10-明洞熟食午餐.jpg",
+    "title": "韩式热汤 — 明洞熟食午餐",
+    "creator": "generated place visual",
+    "license": "personal itinerary use",
+    "licenseUrl": "",
+    "sourceUrl": "korean-jjigae.jpg",
+    "retrievedAt": "2026-11-18"
+  },
+  {
+    "stepId": "d2-de720815",
+    "localFile": "assets/images/D2-14-10–14-50-地铁前往景福宫.jpg",
+    "title": "首尔地铁 — 地铁前往景福宫",
     "creator": "generated place visual",
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "seoul-metro.jpg",
-    "retrievedAt": "2026-11-13"
+    "retrievedAt": "2026-11-18"
   },
   {
-    "stepId": "d2-1339ee42",
-    "localFile": "assets/images/D2-10-15–12-15-国立中央博物馆.jpg",
-    "title": "国立中央博物馆 — 国立中央博物馆",
+    "stepId": "d2-d0057820",
+    "localFile": "assets/images/D2-15-00–16-40-景福宫.jpg",
+    "title": "景福宫勤政殿 — 景福宫",
     "creator": "generated place visual",
     "license": "personal itinerary use",
     "licenseUrl": "",
-    "sourceUrl": "national-museum-korea.jpg",
-    "retrievedAt": "2026-11-13"
+    "sourceUrl": "gyeongbokgung.jpg",
+    "retrievedAt": "2026-11-18"
   },
   {
-    "stepId": "d2-af3f2869",
-    "localFile": "assets/images/D2-12-15–13-00-馆内或附近简餐.jpg",
-    "title": "博物馆展厅 — 馆内或附近简餐",
-    "creator": "generated place visual",
-    "license": "personal itinerary use",
-    "licenseUrl": "",
-    "sourceUrl": "museum-interior.jpg",
-    "retrievedAt": "2026-11-13"
-  },
-  {
-    "stepId": "d2-52d68d6b",
-    "localFile": "assets/images/D2-13-00–13-30-二村→用山.jpg",
-    "title": "用山 I'Park Mall — 二村→用山",
-    "creator": "generated place visual",
-    "license": "personal itinerary use",
-    "licenseUrl": "",
-    "sourceUrl": "ipark-mall.jpg",
-    "retrievedAt": "2026-11-13"
-  },
-  {
-    "stepId": "d2-a443c25d",
-    "localFile": "assets/images/D2-13-30–16-30-用山 I'Park：任天堂＋宝可梦.jpg",
-    "title": "商场游戏周边店 — 用山 I'Park：任天堂＋宝可梦",
-    "creator": "generated place visual",
-    "license": "personal itinerary use",
-    "licenseUrl": "",
-    "sourceUrl": "game-store-mall.jpg",
-    "retrievedAt": "2026-11-13"
-  },
-  {
-    "stepId": "d2-7a92d40e",
-    "localFile": "assets/images/D2-16-30–17-30-回 Hotel Kukdo 休整.jpg",
-    "title": "Hotel Kukdo / 乙支路 — 回 Hotel Kukdo 休整",
-    "creator": "generated place visual",
-    "license": "personal itinerary use",
-    "licenseUrl": "",
-    "sourceUrl": "hotel-kukdo.jpg",
-    "retrievedAt": "2026-11-13"
-  },
-  {
-    "stepId": "d2-63800645",
-    "localFile": "assets/images/D2-17-30–18-00 或 21-00后-BHC 忠武路站店.jpg",
+    "stepId": "d2-745bdbc1",
+    "localFile": "assets/images/D2-17-15前或21-00后-BHC 忠武路站店.jpg",
     "title": "韩式炸鸡 — BHC 忠武路站店",
     "creator": "generated place visual",
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "korean-fried-chicken.jpg",
-    "retrievedAt": "2026-11-13"
+    "retrievedAt": "2026-11-18"
   },
   {
     "stepId": "d3-c0083cfb",
@@ -148,157 +138,197 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "korean-hot-meal.jpg",
-    "retrievedAt": "2026-11-13"
+    "retrievedAt": "2026-11-18"
   },
   {
-    "stepId": "d3-466b294b",
-    "localFile": "assets/images/D3-10-00–10-40-2号线→圣水站.jpg",
-    "title": "首尔地铁 — 2号线→圣水站",
+    "stepId": "d3-c4b3c3a1",
+    "localFile": "assets/images/D3-10-00–10-40-2号线到圣水站.jpg",
+    "title": "首尔地铁 — 2号线到圣水站",
     "creator": "generated place visual",
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "seoul-metro.jpg",
-    "retrievedAt": "2026-11-13"
+    "retrievedAt": "2026-11-18"
   },
   {
-    "stepId": "d3-b49cd96e",
-    "localFile": "assets/images/D3-10-40–13-00-圣水洞咖啡与选品.jpg",
+    "stepId": "d3-06d2acc2",
+    "localFile": "assets/images/D3-10-40–12-10-圣水洞咖啡与选品.jpg",
     "title": "圣水洞咖啡街 — 圣水洞咖啡与选品",
     "creator": "generated place visual",
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "seongsu-cafe.jpg",
-    "retrievedAt": "2026-11-13"
+    "retrievedAt": "2026-11-18"
   },
   {
-    "stepId": "d3-9fe80c14",
-    "localFile": "assets/images/D3-13-00–14-30-圣水熟食午餐.jpg",
+    "stepId": "d3-cdb35600",
+    "localFile": "assets/images/D3-12-10–12-50-圣水熟食午餐.jpg",
     "title": "韩式热汤 — 圣水熟食午餐",
     "creator": "generated place visual",
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "korean-jjigae.jpg",
-    "retrievedAt": "2026-11-13"
+    "retrievedAt": "2026-11-18"
   },
   {
-    "stepId": "d3-9a68521b",
-    "localFile": "assets/images/D3-14-30–16-30-圣水续逛→回酒店.jpg",
-    "title": "圣水洞咖啡街 — 圣水续逛→回酒店",
+    "stepId": "d3-8dac9a18",
+    "localFile": "assets/images/D3-12-50–13-10-圣水到纛岛站.jpg",
+    "title": "首尔地铁 — 圣水到纛岛站",
     "creator": "generated place visual",
     "license": "personal itinerary use",
     "licenseUrl": "",
-    "sourceUrl": "seongsu-cafe.jpg",
-    "retrievedAt": "2026-11-13"
+    "sourceUrl": "seoul-metro.jpg",
+    "retrievedAt": "2026-11-18"
   },
   {
-    "stepId": "d3-9ecdef76",
-    "localFile": "assets/images/D3-16-30–18-00-休整加衣.jpg",
-    "title": "冬日加衣 — 休整加衣",
+    "stepId": "d3-1d8a2b9d",
+    "localFile": "assets/images/D3-13-10–14-00-小鹰圣水直营店.jpg",
+    "title": "小鹰背包直营店 — 小鹰圣水直营店",
     "creator": "generated place visual",
     "license": "personal itinerary use",
     "licenseUrl": "",
-    "sourceUrl": "winter-layers.jpg",
-    "retrievedAt": "2026-11-13"
+    "sourceUrl": "backpack-shop.jpg",
+    "retrievedAt": "2026-11-18"
   },
   {
-    "stepId": "d3-3d60d161",
-    "localFile": "assets/images/D3-18-00–19-00-明洞／忠武路轻晚餐.jpg",
-    "title": "明洞步行街 — 明洞／忠武路轻晚餐",
+    "stepId": "d3-1e52dabe",
+    "localFile": "assets/images/D3-14-00–14-40-回酒店放下背包.jpg",
+    "title": "Hotel Kukdo / 乙支路 — 回酒店放下背包",
     "creator": "generated place visual",
     "license": "personal itinerary use",
     "licenseUrl": "",
-    "sourceUrl": "myeongdong-street.jpg",
-    "retrievedAt": "2026-11-13"
+    "sourceUrl": "hotel-kukdo.jpg",
+    "retrievedAt": "2026-11-18"
   },
   {
-    "stepId": "d3-2fea52b4",
-    "localFile": "assets/images/D3-19-00–21-00-南山首尔塔.jpg",
-    "title": "南山首尔塔夜景 — 南山首尔塔",
-    "creator": "generated place visual",
-    "license": "personal itinerary use",
-    "licenseUrl": "",
-    "sourceUrl": "n-seoul-tower-night.jpg",
-    "retrievedAt": "2026-11-13"
-  },
-  {
-    "stepId": "d4-727c63d6",
-    "localFile": "assets/images/D4-08-30–09-15-热餐与带护照.jpg",
-    "title": "护照与登机准备 — 热餐与带护照",
-    "creator": "generated place visual",
-    "license": "personal itinerary use",
-    "licenseUrl": "",
-    "sourceUrl": "passport-desk.jpg",
-    "retrievedAt": "2026-11-13"
-  },
-  {
-    "stepId": "d4-12b3bae0",
-    "localFile": "assets/images/D4-09-15–09-45-3号线→景福宫站.jpg",
-    "title": "景福宫勤政殿 — 3号线→景福宫站",
-    "creator": "generated place visual",
-    "license": "personal itinerary use",
-    "licenseUrl": "",
-    "sourceUrl": "gyeongbokgung.jpg",
-    "retrievedAt": "2026-11-13"
-  },
-  {
-    "stepId": "d4-70640c16",
-    "localFile": "assets/images/D4-09-45–12-00-景福宫.jpg",
-    "title": "景福宫勤政殿 — 景福宫",
-    "creator": "generated place visual",
-    "license": "personal itinerary use",
-    "licenseUrl": "",
-    "sourceUrl": "gyeongbokgung.jpg",
-    "retrievedAt": "2026-11-13"
-  },
-  {
-    "stepId": "d4-44998788",
-    "localFile": "assets/images/D4-12-00–13-00-景福宫站附近午餐.jpg",
-    "title": "参鸡汤 — 景福宫站附近午餐",
-    "creator": "generated place visual",
-    "license": "personal itinerary use",
-    "licenseUrl": "",
-    "sourceUrl": "samgyetang.jpg",
-    "retrievedAt": "2026-11-13"
-  },
-  {
-    "stepId": "d4-1827447a",
-    "localFile": "assets/images/D4-13-00–13-40-回明洞商圈.jpg",
-    "title": "明洞乐天百货 — 回明洞商圈",
+    "stepId": "d3-243109bd",
+    "localFile": "assets/images/D3-14-50–16-10-乐天本店始祖鸟.jpg",
+    "title": "明洞乐天百货 — 乐天本店始祖鸟",
     "creator": "generated place visual",
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "lotte-myeongdong.jpg",
-    "retrievedAt": "2026-11-13"
+    "retrievedAt": "2026-11-18"
   },
   {
-    "stepId": "d4-c36474b3",
-    "localFile": "assets/images/D4-13-40–16-30-乐天本店→新世界本店购衣.jpg",
-    "title": "百货户外服装柜 — 乐天本店→新世界本店购衣",
+    "stepId": "d3-117c1027",
+    "localFile": "assets/images/D3-16-10–17-30-新世界本店始祖鸟.jpg",
+    "title": "新世界本店 — 新世界本店始祖鸟",
     "creator": "generated place visual",
     "license": "personal itinerary use",
     "licenseUrl": "",
-    "sourceUrl": "outdoor-apparel.jpg",
-    "retrievedAt": "2026-11-13"
+    "sourceUrl": "shinsegae-main.jpg",
+    "retrievedAt": "2026-11-18"
   },
   {
-    "stepId": "d4-f5967275",
-    "localFile": "assets/images/D4-16-30–18-00-回酒店放衣打包.jpg",
-    "title": "收拾行李 — 回酒店放衣打包",
+    "stepId": "d3-e8b52eef",
+    "localFile": "assets/images/D3-17-30–18-10-回酒店放衣服.jpg",
+    "title": "收拾行李 — 回酒店放衣服",
     "creator": "generated place visual",
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "packing-suitcase.jpg",
-    "retrievedAt": "2026-11-13"
+    "retrievedAt": "2026-11-18"
   },
   {
-    "stepId": "d4-71f67518",
-    "localFile": "assets/images/D4-18-00前或21-00后-可选 BHC 或近酒店热汤.jpg",
-    "title": "韩式炸鸡 — 可选 BHC 或近酒店热汤",
+    "stepId": "d3-d9f2bc0c",
+    "localFile": "assets/images/D3-18-30–19-30-清溪川散步.jpg",
+    "title": "清溪川冬夜 — 清溪川散步",
+    "creator": "generated place visual",
+    "license": "personal itinerary use",
+    "licenseUrl": "",
+    "sourceUrl": "cheonggyecheon-winter.jpg",
+    "retrievedAt": "2026-11-18"
+  },
+  {
+    "stepId": "d4-8bf9694e",
+    "localFile": "assets/images/D4-08-30–09-20-周一热餐出发.jpg",
+    "title": "韩式热餐 — 周一热餐出发",
+    "creator": "generated place visual",
+    "license": "personal itinerary use",
+    "licenseUrl": "",
+    "sourceUrl": "korean-hot-meal.jpg",
+    "retrievedAt": "2026-11-18"
+  },
+  {
+    "stepId": "d4-321c15a9",
+    "localFile": "assets/images/D4-09-20–10-10-地铁前往国立中央博物馆.jpg",
+    "title": "首尔地铁 — 地铁前往国立中央博物馆",
+    "creator": "generated place visual",
+    "license": "personal itinerary use",
+    "licenseUrl": "",
+    "sourceUrl": "seoul-metro.jpg",
+    "retrievedAt": "2026-11-18"
+  },
+  {
+    "stepId": "d4-12e36b9c",
+    "localFile": "assets/images/D4-10-15–12-15-国立中央博物馆.jpg",
+    "title": "国立中央博物馆 — 国立中央博物馆",
+    "creator": "generated place visual",
+    "license": "personal itinerary use",
+    "licenseUrl": "",
+    "sourceUrl": "national-museum-korea.jpg",
+    "retrievedAt": "2026-11-18"
+  },
+  {
+    "stepId": "d4-0d71021f",
+    "localFile": "assets/images/D4-12-15–13-00-馆内或附近简餐.jpg",
+    "title": "博物馆展厅 — 馆内或附近简餐",
+    "creator": "generated place visual",
+    "license": "personal itinerary use",
+    "licenseUrl": "",
+    "sourceUrl": "museum-interior.jpg",
+    "retrievedAt": "2026-11-18"
+  },
+  {
+    "stepId": "d4-0772080b",
+    "localFile": "assets/images/D4-13-00–13-30-二村到用山.jpg",
+    "title": "用山 I'Park Mall — 二村到用山",
+    "creator": "generated place visual",
+    "license": "personal itinerary use",
+    "licenseUrl": "",
+    "sourceUrl": "ipark-mall.jpg",
+    "retrievedAt": "2026-11-18"
+  },
+  {
+    "stepId": "d4-dc57a386",
+    "localFile": "assets/images/D4-13-30–16-20-用山 I'Park：任天堂＋宝可梦.jpg",
+    "title": "商场游戏周边店 — 用山 I'Park：任天堂＋宝可梦",
+    "creator": "generated place visual",
+    "license": "personal itinerary use",
+    "licenseUrl": "",
+    "sourceUrl": "game-store-mall.jpg",
+    "retrievedAt": "2026-11-18"
+  },
+  {
+    "stepId": "d4-7bb868f1",
+    "localFile": "assets/images/D4-16-30–17-20-庭院远观南山塔.jpg",
+    "title": "南山首尔塔夜景 — 庭院远观南山塔",
+    "creator": "generated place visual",
+    "license": "personal itinerary use",
+    "licenseUrl": "",
+    "sourceUrl": "n-seoul-tower-night.jpg",
+    "retrievedAt": "2026-11-18"
+  },
+  {
+    "stepId": "d4-ff105c57",
+    "localFile": "assets/images/D4-17-30–20-30-回酒店等到炸鸡.jpg",
+    "title": "Hotel Kukdo / 乙支路 — 回酒店等到炸鸡",
+    "creator": "generated place visual",
+    "license": "personal itinerary use",
+    "licenseUrl": "",
+    "sourceUrl": "hotel-kukdo.jpg",
+    "retrievedAt": "2026-11-18"
+  },
+  {
+    "stepId": "d4-262ee4f0",
+    "localFile": "assets/images/D4-21-00后-BHC 忠武路站店.jpg",
+    "title": "韩式炸鸡 — BHC 忠武路站店",
     "creator": "generated place visual",
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "korean-fried-chicken.jpg",
-    "retrievedAt": "2026-11-13"
+    "retrievedAt": "2026-11-18"
   },
   {
     "stepId": "d5-da61b044",
@@ -308,7 +338,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "hotel-checkout.jpg",
-    "retrievedAt": "2026-11-13"
+    "retrievedAt": "2026-11-18"
   },
   {
     "stepId": "d5-2d86f11e",
@@ -318,7 +348,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "euljiro-station.jpg",
-    "retrievedAt": "2026-11-13"
+    "retrievedAt": "2026-11-18"
   },
   {
     "stepId": "d5-da870aec",
@@ -328,7 +358,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "arex-train.jpg",
-    "retrievedAt": "2026-11-13"
+    "retrievedAt": "2026-11-18"
   },
   {
     "stepId": "d5-b354ca57",
@@ -338,7 +368,7 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "icn-departure.jpg",
-    "retrievedAt": "2026-11-13"
+    "retrievedAt": "2026-11-18"
   },
   {
     "stepId": "d5-9db9056e",
@@ -348,6 +378,6 @@ export const imageCredits = [
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "asiana-oz.jpg",
-    "retrievedAt": "2026-11-13"
+    "retrievedAt": "2026-11-18"
   }
 ];
