@@ -121,8 +121,38 @@ export const imageCredits = [
     "retrievedAt": "2026-11-23"
   },
   {
-    "stepId": "d2-745bdbc1",
-    "localFile": "assets/images/D2-17-15前或21-00后-BHC 忠武路站店.jpg",
+    "stepId": "d2-45d45abe",
+    "localFile": "assets/images/D2-17-10–18-20-乐天本店买户外服饰.jpg",
+    "title": "明洞乐天百货 — 乐天本店买户外服饰",
+    "creator": "generated place visual",
+    "license": "personal itinerary use",
+    "licenseUrl": "",
+    "sourceUrl": "lotte-myeongdong.jpg",
+    "retrievedAt": "2026-11-23"
+  },
+  {
+    "stepId": "d2-3b2c11a3",
+    "localFile": "assets/images/D2-18-20–19-50-新世界本店买户外服饰.jpg",
+    "title": "新世界本店 — 新世界本店买户外服饰",
+    "creator": "generated place visual",
+    "license": "personal itinerary use",
+    "licenseUrl": "",
+    "sourceUrl": "shinsegae-main.jpg",
+    "retrievedAt": "2026-11-23"
+  },
+  {
+    "stepId": "d2-e9d557f4",
+    "localFile": "assets/images/D2-19-50–20-20-回酒店放衣服.jpg",
+    "title": "收拾行李 — 回酒店放衣服",
+    "creator": "generated place visual",
+    "license": "personal itinerary use",
+    "licenseUrl": "",
+    "sourceUrl": "packing-suitcase.jpg",
+    "retrievedAt": "2026-11-23"
+  },
+  {
+    "stepId": "d2-7a2882b2",
+    "localFile": "assets/images/D2-21-00后-BHC 忠武路站店.jpg",
     "title": "韩式炸鸡 — BHC 忠武路站店",
     "creator": "generated place visual",
     "license": "personal itinerary use",
@@ -151,8 +181,8 @@ export const imageCredits = [
     "retrievedAt": "2026-11-23"
   },
   {
-    "stepId": "d3-06d2acc2",
-    "localFile": "assets/images/D3-10-40–12-10-圣水洞咖啡与选品.jpg",
+    "stepId": "d3-3ce1efe9",
+    "localFile": "assets/images/D3-10-40–12-00-圣水洞咖啡与选品.jpg",
     "title": "圣水洞咖啡街 — 圣水洞咖啡与选品",
     "creator": "generated place visual",
     "license": "personal itinerary use",
@@ -161,9 +191,29 @@ export const imageCredits = [
     "retrievedAt": "2026-11-23"
   },
   {
-    "stepId": "d3-cdb35600",
-    "localFile": "assets/images/D3-12-10–12-50-圣水熟食午餐.jpg",
-    "title": "韩式热汤 — 圣水熟食午餐",
+    "stepId": "d3-b1fde650",
+    "localFile": "assets/images/D3-12-00–12-25-步行到首尔林.jpg",
+    "title": "首尔林冬日 — 步行到首尔林",
+    "creator": "generated place visual",
+    "license": "personal itinerary use",
+    "licenseUrl": "",
+    "sourceUrl": "seoul-forest-winter.jpg",
+    "retrievedAt": "2026-11-23"
+  },
+  {
+    "stepId": "d3-a97307c0",
+    "localFile": "assets/images/D3-12-25–13-05-首尔林 SM 店.jpg",
+    "title": "首尔林专辑店 — 首尔林 SM 店",
+    "creator": "generated place visual",
+    "license": "personal itinerary use",
+    "licenseUrl": "",
+    "sourceUrl": "sm-album-shop.jpg",
+    "retrievedAt": "2026-11-23"
+  },
+  {
+    "stepId": "d3-cd85836d",
+    "localFile": "assets/images/D3-13-05–13-45-首尔林附近熟食.jpg",
+    "title": "韩式热汤 — 首尔林附近熟食",
     "creator": "generated place visual",
     "license": "personal itinerary use",
     "licenseUrl": "",
@@ -171,9 +221,9 @@ export const imageCredits = [
     "retrievedAt": "2026-11-23"
   },
   {
-    "stepId": "d3-8dac9a18",
-    "localFile": "assets/images/D3-12-50–13-10-圣水到纛岛站.jpg",
-    "title": "首尔地铁 — 圣水到纛岛站",
+    "stepId": "d3-16652e68",
+    "localFile": "assets/images/D3-13-45–14-10-首尔林到纛岛站.jpg",
+    "title": "首尔地铁 — 首尔林到纛岛站",
     "creator": "generated place visual",
     "license": "personal itinerary use",
     "licenseUrl": "",
@@ -181,8 +231,8 @@ export const imageCredits = [
     "retrievedAt": "2026-11-23"
   },
   {
-    "stepId": "d3-398ca1b2",
-    "localFile": "assets/images/D3-13-10–14-00-圣水买户外背包.jpg",
+    "stepId": "d3-f8e69a90",
+    "localFile": "assets/images/D3-14-10–15-00-圣水买户外背包.jpg",
     "title": "户外背包店 — 圣水买户外背包",
     "creator": "generated place visual",
     "license": "personal itinerary use",
@@ -191,43 +241,13 @@ export const imageCredits = [
     "retrievedAt": "2026-11-23"
   },
   {
-    "stepId": "d3-1e52dabe",
-    "localFile": "assets/images/D3-14-00–14-40-回酒店放下背包.jpg",
+    "stepId": "d3-759aae9e",
+    "localFile": "assets/images/D3-15-00–15-40-回酒店放下背包.jpg",
     "title": "Hotel Kukdo / 乙支路 — 回酒店放下背包",
     "creator": "generated place visual",
     "license": "personal itinerary use",
     "licenseUrl": "",
     "sourceUrl": "hotel-kukdo.jpg",
-    "retrievedAt": "2026-11-23"
-  },
-  {
-    "stepId": "d3-416a6ea3",
-    "localFile": "assets/images/D3-14-50–16-10-乐天本店买户外服饰.jpg",
-    "title": "明洞乐天百货 — 乐天本店买户外服饰",
-    "creator": "generated place visual",
-    "license": "personal itinerary use",
-    "licenseUrl": "",
-    "sourceUrl": "lotte-myeongdong.jpg",
-    "retrievedAt": "2026-11-23"
-  },
-  {
-    "stepId": "d3-3c5e51e9",
-    "localFile": "assets/images/D3-16-10–17-30-新世界本店买户外服饰.jpg",
-    "title": "新世界本店 — 新世界本店买户外服饰",
-    "creator": "generated place visual",
-    "license": "personal itinerary use",
-    "licenseUrl": "",
-    "sourceUrl": "shinsegae-main.jpg",
-    "retrievedAt": "2026-11-23"
-  },
-  {
-    "stepId": "d3-e8b52eef",
-    "localFile": "assets/images/D3-17-30–18-10-回酒店放衣服.jpg",
-    "title": "收拾行李 — 回酒店放衣服",
-    "creator": "generated place visual",
-    "license": "personal itinerary use",
-    "licenseUrl": "",
-    "sourceUrl": "packing-suitcase.jpg",
     "retrievedAt": "2026-11-23"
   },
   {

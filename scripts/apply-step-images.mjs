@@ -31,8 +31,10 @@ const TITLE_TO_VISUAL = {
   "慢起与热餐": "korean-hot-meal.jpg",
   "2号线到圣水站": "seoul-metro.jpg",
   "圣水洞咖啡与选品": "seongsu-cafe.jpg",
-  "圣水熟食午餐": "korean-jjigae.jpg",
-  "圣水到纛岛站": "seoul-metro.jpg",
+  "步行到首尔林": "seoul-forest-winter.jpg",
+  "首尔林 SM 店": "sm-album-shop.jpg",
+  "首尔林附近熟食": "korean-jjigae.jpg",
+  "首尔林到纛岛站": "seoul-metro.jpg",
   "圣水买户外背包": "backpack-shop.jpg",
   "回酒店放下背包": "hotel-kukdo.jpg",
   "乐天本店买户外服饰": "lotte-myeongdong.jpg",
@@ -87,6 +89,8 @@ const VISUAL_NOTE = {
   "color-studio.jpg": "明洞个人色彩工作室",
   "backpack-shop.jpg": "户外背包店",
   "cheonggyecheon-winter.jpg": "清溪川冬夜",
+  "seoul-forest-winter.jpg": "首尔林冬日",
+  "sm-album-shop.jpg": "首尔林专辑店",
 };
 
 await mkdir(imageDirectory, { recursive: true });
